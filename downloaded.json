@@ -131,10 +131,76 @@
             "document_id": 5870868995371964920,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/333_saidaWan_Zyad-Asad_20250827-2030.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/333.jpg"
+        },
+        "334": {
+            "id": "334",
+            "title": "پەیمان عەلایی - شەو هات",
+            "performer": "ملوانکەی شین",
+            "duration": 146,
+            "date": "20250827-2225",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "531",
+            "message": "شەو هات و ئەمن مەستی خەیاڵاتی کەسێکم\nمەشغووڵی نەفەس گرتنی موشکین نەفەسێکم\nهەم واریسی فەرهادم و هەم نائیبی مەجنوون\nوا تێمەگە، قوربان، کە گەدا، بولهەوەسێکم\nنالی\n~>",
+            "filename": "334_saidaWan_20250827-2225.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250828-1111",
+            "size": 2,
+            "document_id": 6005894087029309572,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/334_saidaWan_20250827-2225.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/334.jpg"
+        },
+        "335": {
+            "id": "335",
+            "title": "Zahîr Celal | Zulfî Xawit",
+            "performer": "@KBC_LM",
+            "duration": 434,
+            "date": "20250828-1053",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "532",
+            "message": "زولفی خاوت\n~>\nزاهیر جەلال",
+            "filename": "335_saidaWan_KBC-LM_20250828-1053.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250828-1106",
+            "size": 7,
+            "document_id": 5868225142353566488,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/335_saidaWan_KBC-LM_20250828-1053.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/335.jpg"
+        },
+        "336": {
+            "id": "336",
+            "title": "gulî behar - MÎKAÎL",
+            "performer": "www.goranikurdi.com",
+            "duration": 226,
+            "date": "20250828-2152",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "533",
+            "message": "",
+            "filename": "336_saidaWan_www-goranikurdi-com_20250828-2152.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250829-1005",
+            "size": 4,
+            "document_id": 5872968744753437838,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/336_saidaWan_www-goranikurdi-com_20250828-2152.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/336.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 333
+        "last_downloaded_internal_id": 336
     }
 }
