@@ -197,10 +197,76 @@
             "document_id": 5872968744753437838,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/336_saidaWan_www-goranikurdi-com_20250828-2152.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/336.jpg"
+        },
+        "337": {
+            "id": "337",
+            "title": "Mshko - Namam Namama (Shortened) | مشکۆ - نەمام نەمامە (کورتکراوە)",
+            "performer": null,
+            "duration": 382,
+            "date": "20250830-1302",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "534",
+            "message": "Mshko - Namam Namam) | مشکۆ - نەمام نەمامە (کورتکراوە)",
+            "filename": "337_saidaWan_20250830-1302.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250830-1443",
+            "size": 7,
+            "document_id": 5857109887250603237,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/337_saidaWan_20250830-1302.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/337.jpg"
+        },
+        "338": {
+            "id": "338",
+            "title": null,
+            "performer": null,
+            "duration": 126,
+            "date": "20250830-1442",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "535",
+            "message": "",
+            "filename": "338_saidaWan_20250830-1442.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250830-1443",
+            "size": 3,
+            "document_id": 6046618730706771013,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/338_saidaWan_20250830-1442.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/338.jpg"
+        },
+        "339": {
+            "id": "339",
+            "title": "نازانم لە کێ پرسم",
+            "performer": "Hassan Zirak",
+            "duration": 305,
+            "date": "20250905-2230",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "537",
+            "message": "~>\nحەسەن زیرەک",
+            "filename": "339_saidaWan_Hassan-Zirak_20250905-2230.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250907-0934",
+            "size": 8,
+            "document_id": 5902377094498752697,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/339_saidaWan_Hassan-Zirak_20250905-2230.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/339.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 336
+        "last_downloaded_internal_id": 339
     }
 }
