@@ -10,7 +10,7 @@ on:
 jobs:
     fetch-data:
         runs-on: ubuntu-latest
-        environment: pocket04
+        environment: pocket05
 
         steps:
             - name: Checkout repository
@@ -33,7 +33,7 @@ jobs:
               run: |
                   python -m pip install -r requirements.txt --upgrade pip
 
-            - name: Run dl
+            - name: fetch and update data
               env:
                 DOWNLOAD_PATH: ${{ vars.DOWNLOAD_PATH }}
                 DOWNLOADED_DATA_FILE_PATH: ${{ vars.DOWNLOADED_DATA_FILE_PATH }}
