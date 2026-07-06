@@ -527,10 +527,76 @@
             "document_id": 5985635752791250984,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/351_saidaWan_20251011-1518.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/351.jpg"
+        },
+        "352": {
+            "id": "352",
+            "title": "Shoresh Mahmoodi | CawarimKerdi",
+            "performer": "T.me/Hiway_azadi",
+            "duration": 413,
+            "date": "20251013-1104",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "556",
+            "message": "چاوەڕێی تیشکی هەتاوو بوم\nبەڵام هەوری ڕەش \nدایپۆشی\n🖤",
+            "filename": "352_saidaWan_Shoresh-Mahmoodi-CawarimKerdi_20251013-1104.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251013-1119",
+            "size": 17,
+            "document_id": 5893100630859321684,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/352_saidaWan_Shoresh-Mahmoodi-CawarimKerdi_20251013-1104.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/352.jpg"
+        },
+        "353": {
+            "id": "353",
+            "title": "Çawerêm kirdî",
+            "performer": "Reza YûsifBeygî [@HevallanMusic]",
+            "duration": 264,
+            "date": "20251013-1655",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "557",
+            "message": "",
+            "filename": "353_saidaWan_20251013-1655.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251014-0648",
+            "size": 4,
+            "document_id": 6010364374890323038,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/353_saidaWan_20251013-1655.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/353.jpg"
+        },
+        "354": {
+            "id": "354",
+            "title": "پەپوولە ئاسا",
+            "performer": "Hani Mojtahedi",
+            "duration": 369,
+            "date": "20251016-0643",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "558",
+            "message": "پەپوولە ئاسا، خەیاڵم ئەفڕێ\nئەبێ بە قەقنەس جەستەم گڕ ئەگرێ\n~>\nهانی",
+            "filename": "354_saidaWan_Hani-Mojtahedi_20251016-0643.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251017-0629",
+            "size": 5,
+            "document_id": 6021675072480090517,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/354_saidaWan_Hani-Mojtahedi_20251016-0643.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/354.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 351
+        "last_downloaded_internal_id": 354
     }
 }
