@@ -923,10 +923,76 @@
             "document_id": 5848049039559367270,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/369_saidaWan_Dimo-Dimo_Hasan-Darzi_20251129-1930.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/369.jpg"
+        },
+        "370": {
+            "id": "370",
+            "title": "Toş Becêm Dêłî",
+            "performer": "Hesen Derzî [@HevallanMusic]",
+            "duration": 102,
+            "date": "20251130-1746",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "575",
+            "message": "تۆش بە جێم دێڵی - حەسەن دەرزی",
+            "filename": "370_saidaWan_20251130-1746.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251130-1747",
+            "size": 2,
+            "document_id": 5794102515154820448,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/370_saidaWan_20251130-1746.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/370.jpg"
+        },
+        "371": {
+            "id": "371",
+            "title": "Kurdistan",
+            "performer": "Hani Mojtahedi",
+            "duration": 358,
+            "date": "20251206-1218",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "576",
+            "message": "هانے مجتهدی\n\n🎶ڪوردستان",
+            "filename": "371_saidaWan_Kurdistan_Hani-Mojtahedi_20251206-1218.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251206-1249",
+            "size": 6,
+            "document_id": 5929002992631027763,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/371_saidaWan_Kurdistan_Hani-Mojtahedi_20251206-1218.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/371.jpg"
+        },
+        "372": {
+            "id": "372",
+            "title": "دیسان بارانه",
+            "performer": "ناسر رەزازی",
+            "duration": 437,
+            "date": "20251208-1023",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "577",
+            "message": "#ناسر_ڕەزازی\n\n#دیسان_بارانە",
+            "filename": "372_saidaWan_20251208-1023.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251208-1028",
+            "size": 8,
+            "document_id": 6005737939198285042,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/372_saidaWan_20251208-1023.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/372.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 369
+        "last_downloaded_internal_id": 372
     }
 }
