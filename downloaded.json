@@ -989,10 +989,98 @@
             "document_id": 6005737939198285042,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/372_saidaWan_20251208-1023.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/372.jpg"
+        },
+        "373": {
+            "id": "373",
+            "title": "لیلا فریقی",
+            "performer": "با دلم بگری",
+            "duration": 353,
+            "date": "20251208-1144",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "578",
+            "message": "#لەیلا_فەریقی\nبا دڵم بگری",
+            "filename": "373_saidaWan_20251208-1144.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251208-1144",
+            "size": 15,
+            "document_id": 5821208139659221798,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/373_saidaWan_20251208-1144.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/373.jpg"
+        },
+        "374": {
+            "id": "374",
+            "title": "Nasir Rezazî | Zara",
+            "performer": "@KBC_LM",
+            "duration": 654,
+            "date": "20251209-0651",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "579",
+            "message": "",
+            "filename": "374_saidaWan_KBC-LM_20251209-0651.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251209-0651",
+            "size": 11,
+            "document_id": 5837110582490176657,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/374_saidaWan_KBC-LM_20251209-0651.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/374.jpg"
+        },
+        "375": {
+            "id": "375",
+            "title": "ناسر ڕەزازی / حەبیبم حەبیە خان",
+            "performer": "@radio_serberz",
+            "duration": 426,
+            "date": "20251210-1219",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "580",
+            "message": "",
+            "filename": "375_saidaWan_radio-serberz_20251210-1219.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251210-2005",
+            "size": 8,
+            "document_id": 5892962749524221150,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/375_saidaWan_radio-serberz_20251210-1219.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/375.jpg"
+        },
+        "376": {
+            "id": "376",
+            "title": "Şar",
+            "performer": "Hassan Darzi",
+            "duration": 0,
+            "date": "20251210-2213",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "581",
+            "message": "دڵم پڕە لە دەرد و کوڵ\nئەڵێم بڕۆم لە شارەکەت..",
+            "filename": "376_saidaWan_Hassan-Darzi_20251210-2213.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251211-0529",
+            "size": 7,
+            "document_id": 5985571757778539163,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/376_saidaWan_Hassan-Darzi_20251210-2213.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/376.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 372
+        "last_downloaded_internal_id": 376
     }
 }
