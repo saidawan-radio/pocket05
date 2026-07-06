@@ -395,10 +395,76 @@
             "document_id": 5927017790027340061,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/345_saidaWan_radio-serberz_20250915-2023.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/345.jpg"
+        },
+        "346": {
+            "id": "346",
+            "title": "Zakaria Abdulla",
+            "performer": "ʜ_ᴀᴍɪꜱʜᴇɢɪᴍɪᥫ᭡",
+            "duration": 279,
+            "date": "20250915-2026",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "549",
+            "message": "••\n\nنەمزانی ڕۆژێ دادێ گیانە تۆ بە جێم دێڵی\nساردی ئەم وڵاتە لە ناخی دڵدا دەکێڵی",
+            "filename": "346_saidaWan_Zakaria-Abdulla_20250915-2026.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250915-2151",
+            "size": 5,
+            "document_id": 5925034962540567785,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/346_saidaWan_Zakaria-Abdulla_20250915-2026.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/346.jpg"
+        },
+        "347": {
+            "id": "347",
+            "title": "Yar Yar Yar",
+            "performer": "Hasan Zirak",
+            "duration": 304,
+            "date": "20250917-2014",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "550",
+            "message": "",
+            "filename": "347_saidaWan_Yar-Yar-Yar_Hasan-Zirak_20250917-2014.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250917-2014",
+            "size": 5,
+            "document_id": 5933651336951241410,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/347_saidaWan_Yar-Yar-Yar_Hasan-Zirak_20250917-2014.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/347.jpg"
+        },
+        "348": {
+            "id": "348",
+            "title": "هه‌م نارنجه هه‌م بێیە",
+            "performer": "ماملێ",
+            "duration": 374,
+            "date": "20250927-1648",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "551",
+            "message": "",
+            "filename": "348_saidaWan_20250927-1648.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250927-1649",
+            "size": 6,
+            "document_id": 5953910229535049241,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/348_saidaWan_20250927-1648.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/348.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 345
+        "last_downloaded_internal_id": 348
     }
 }
