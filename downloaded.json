@@ -461,10 +461,76 @@
             "document_id": 5953910229535049241,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/348_saidaWan_20250927-1648.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/348.jpg"
+        },
+        "349": {
+            "id": "349",
+            "title": "Xoshewisti",
+            "performer": "Hani Mojtahedy",
+            "duration": 294,
+            "date": "20251005-1744",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "553",
+            "message": "",
+            "filename": "349_saidaWan_Xoshewisti_Hani-Mojtahedy_20251005-1744.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251005-1749",
+            "size": 13,
+            "document_id": 6046545845111755959,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/349_saidaWan_Xoshewisti_Hani-Mojtahedy_20251005-1744.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/349.jpg"
+        },
+        "350": {
+            "id": "350",
+            "title": "ئەی یار",
+            "performer": "Adnan Karim",
+            "duration": 384,
+            "date": "20251006-2030",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "554",
+            "message": "ئەی یار\n~>\nعەدنان کەریم",
+            "filename": "350_saidaWan_Adnan-Karim_20251006-2030.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251007-0703",
+            "size": 7,
+            "document_id": 5992477816082406340,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/350_saidaWan_Adnan-Karim_20251006-2030.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/350.jpg"
+        },
+        "351": {
+            "id": "351",
+            "title": "موحەمەد ماملێ | مەشموول",
+            "performer": "@TRUOSKEH | ترووسکه",
+            "duration": 280,
+            "date": "20251011-1518",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "555",
+            "message": "",
+            "filename": "351_saidaWan_20251011-1518.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251011-1518",
+            "size": 12,
+            "document_id": 5985635752791250984,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/351_saidaWan_20251011-1518.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/351.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 348
+        "last_downloaded_internal_id": 351
     }
 }
