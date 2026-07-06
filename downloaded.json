@@ -1253,10 +1253,98 @@
             "document_id": 5967733964029303828,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/384_saidaWan_Dariush_20260103-1855.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/384.jpg"
+        },
+        "385": {
+            "id": "385",
+            "title": "Shwan [320]",
+            "performer": "Hasan Zirak",
+            "duration": 235,
+            "date": "20260104-1055",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "590",
+            "message": "",
+            "filename": "385_saidaWan_Hasan-Zirak_20260104-1055.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260104-1103",
+            "size": 10,
+            "document_id": 5967450126820580832,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/385_saidaWan_Hasan-Zirak_20260104-1055.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/385.jpg"
+        },
+        "386": {
+            "id": "386",
+            "title": "Hamzaboonam Bash",
+            "performer": "Homeyra",
+            "duration": 347,
+            "date": "20260104-1057",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "591",
+            "message": "",
+            "filename": "386_saidaWan_Hamzaboonam-Bash_Homeyra_20260104-1057.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260104-1103",
+            "size": 14,
+            "document_id": 5778196331407351346,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/386_saidaWan_Hamzaboonam-Bash_Homeyra_20260104-1057.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/386.jpg"
+        },
+        "387": {
+            "id": "387",
+            "title": "حەسەن زیرەک و شێرکۆ بێکەس",
+            "performer": "حەسەن زیرەک و شێرکۆ بێکەس",
+            "duration": 250,
+            "date": "20260104-1731",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "592",
+            "message": "حەسەن زیرەک\nشێرکۆ بێکەس\n\nدانیشتووم\nئەوەندەی کوردستان تەنیام و\nئەوەندەی شاخ و داخ ماندووم و\nئەوەندەی دووکەڵی جگەرەم پەرتم و\nئەوەندەی دواچۆڕی ئەم شێعرە لێڵم و\nڕۆحیشم کوولەکەی تەمێکەو،\nخەریکە تەق ئەکات.\nهەمدیسان بارانەو ئێوارەی بارانە و\nماندوێتیم وەک قەوزه، \nوەنەوزێ گرتوویەتی",
+            "filename": "387_saidaWan_20260104-1731.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260619-1742",
+            "size": 5,
+            "document_id": 5884292980080123357,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/387_saidaWan_20260104-1731.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/387.jpg"
+        },
+        "388": {
+            "id": "388",
+            "title": "شەش پەپوولە",
+            "performer": "marziye frighi",
+            "duration": 385,
+            "date": "20260107-0934",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "593",
+            "message": "خەمی ئێوەیە هەموو خۆراکم\nشەوی تاریکە ڕۆژی ڕووناکم\nبەرد ئەسووتێنێ گەرمی هەناسەم\nبە سۆزی دڵ و ئاگری تاسەم..\n.\n.",
+            "filename": "388_saidaWan_marziye-frighi_20260107-0934.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260619-1740",
+            "size": 7,
+            "document_id": 5884292980080123355,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/388_saidaWan_marziye-frighi_20260107-0934.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/388.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 384
+        "last_downloaded_internal_id": 388
     }
 }
