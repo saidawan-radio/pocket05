@@ -1341,10 +1341,98 @@
             "document_id": 5884292980080123355,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/388_saidaWan_marziye-frighi_20260107-0934.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/388.jpg"
+        },
+        "389": {
+            "id": "389",
+            "title": "Ey Shadie Azadi",
+            "performer": "Shajarian",
+            "duration": 288,
+            "date": "20260107-2208",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "594",
+            "message": "🌱",
+            "filename": "389_saidaWan_Ey-Shadie-Azadi_Shajarian_20260107-2208.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260107-2209",
+            "size": 5,
+            "document_id": 6046365112887935657,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/389_saidaWan_Ey-Shadie-Azadi_Shajarian_20260107-2208.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/389.jpg"
+        },
+        "390": {
+            "id": "390",
+            "title": "Yaad Aar",
+            "performer": "Mohsen Namjoo",
+            "duration": 308,
+            "date": "20260107-2215",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "595",
+            "message": "ان روز کە نزدیک است",
+            "filename": "390_saidaWan_Yaad-Aar_Mohsen-Namjoo_20260107-2215.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260107-2219",
+            "size": 13,
+            "document_id": 5979057022534950274,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/390_saidaWan_Yaad-Aar_Mohsen-Namjoo_20260107-2215.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/390.jpg"
+        },
+        "391": {
+            "id": "391",
+            "title": "Experience",
+            "performer": "Ludovico Einaudi",
+            "duration": 315,
+            "date": "20260107-2227",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "596",
+            "message": "",
+            "filename": "391_saidaWan_Experience_Ludovico-Einaudi_20260107-2227.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260107-2227",
+            "size": 14,
+            "document_id": 6042065455487654061,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/391_saidaWan_Experience_Ludovico-Einaudi_20260107-2227.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/391.jpg"
+        },
+        "392": {
+            "id": "392",
+            "title": "ئای زۆزان ",
+            "performer": "ناسر ڕەزازی",
+            "duration": 580,
+            "date": "20260120-2242",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "597",
+            "message": "",
+            "filename": "392_saidaWan_20260120-2242.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260120-2242",
+            "size": 9,
+            "document_id": 6017286904393770178,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/392_saidaWan_20260120-2242.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/392.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 388
+        "last_downloaded_internal_id": 392
     }
 }
