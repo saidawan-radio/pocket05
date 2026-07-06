@@ -1165,10 +1165,98 @@
             "document_id": 5908992237487791100,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/380_saidaWan_Donya-kamali_20251215-2131.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/380.jpg"
+        },
+        "381": {
+            "id": "381",
+            "title": "خانزادەخان",
+            "performer": "Hasan Zirak",
+            "duration": 429,
+            "date": "20251223-1325",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "586",
+            "message": "",
+            "filename": "381_saidaWan_Hasan-Zirak_20251223-1325.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260619-1744",
+            "size": 6,
+            "document_id": 5884292980080123365,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/381_saidaWan_Hasan-Zirak_20251223-1325.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/381.jpg"
+        },
+        "382": {
+            "id": "382",
+            "title": "قازی موحەمەد - دوو دانە دوو Qazî Muhemed - Dû Dane Dû",
+            "performer": null,
+            "duration": 124,
+            "date": "20251230-1735",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "587",
+            "message": "",
+            "filename": "382_saidaWan_20251230-1735.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251230-1736",
+            "size": 2,
+            "document_id": 5897897477968759101,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/382_saidaWan_20251230-1735.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/382.jpg"
+        },
+        "383": {
+            "id": "383",
+            "title": "Bahari Jin [320]",
+            "performer": "Najmadin Gholami",
+            "duration": 455,
+            "date": "20260102-0824",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "588",
+            "message": "بەهاری ژین - نەجمە",
+            "filename": "383_saidaWan_Najmadin-Gholami_20260102-0824.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260102-0835",
+            "size": 19,
+            "document_id": 5963191606617054932,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/383_saidaWan_Najmadin-Gholami_20260102-0824.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/383.jpg"
+        },
+        "384": {
+            "id": "384",
+            "title": "شهر غم",
+            "performer": "Dariush",
+            "duration": 219,
+            "date": "20260103-1855",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "589",
+            "message": "خسته و دربه در شهر غمم\nشبم از هرچه شبه سیاه تره\n\nزندگی زندون سرد کینه هاست\nرو دلم زخم هزارتا خنجره\n~>\nداریوش",
+            "filename": "384_saidaWan_Dariush_20260103-1855.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260103-2143",
+            "size": 4,
+            "document_id": 5967733964029303828,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/384_saidaWan_Dariush_20260103-1855.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/384.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 380
+        "last_downloaded_internal_id": 384
     }
 }
