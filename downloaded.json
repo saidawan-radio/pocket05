@@ -857,10 +857,76 @@
             "document_id": 5832481578407696390,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/366_saidaWan_Sawza-Hay-Limo-3_20251120-0921.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/366.jpg"
+        },
+        "367": {
+            "id": "367",
+            "title": "Sobhdam",
+            "performer": "Najmadin Gholami",
+            "duration": 533,
+            "date": "20251123-0626",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "572",
+            "message": "سوبحه‌ده‌م - نه‌جمه\nشێعر : ئه‌حمه‌د به‌گی موختار جاف",
+            "filename": "367_saidaWan_Sobhdam_Najmadin-Gholami_20251123-0626.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251123-0627",
+            "size": 9,
+            "document_id": 5843529462653656428,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/367_saidaWan_Sobhdam_Najmadin-Gholami_20251123-0626.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/367.jpg"
+        },
+        "368": {
+            "id": "368",
+            "title": "Ez Xerîbîm",
+            "performer": "İnan Kızıltaş",
+            "duration": 150,
+            "date": "20251126-0943",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "573",
+            "message": "Ji te dûr im li van Çolan\nDinya li min bûye zîndan\nXerîbim ez xerîb im\nBimrim ez te nebînim yar yar yar yar\nXerîbim ez evdalim\nXerîbim ez bêhalim\nJi kezebê dinalim yar\n~>",
+            "filename": "368_saidaWan_20251126-0943.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251126-1306",
+            "size": 4,
+            "document_id": 5852677420871589136,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/368_saidaWan_20251126-0943.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/368.jpg"
+        },
+        "369": {
+            "id": "369",
+            "title": "Dimo Dimo",
+            "performer": "Hasan Darzi",
+            "duration": 495,
+            "date": "20251129-1930",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "574",
+            "message": "هەر دەپێوم کێو و شاخ و چۆڵ و دەشت\nدێم بەرەو کوێستان بەرەو باخی بەهەشت\nدێم بەرەو زیخ و چەو و کانیاوی خۆم\nچۆن لەوانە وەردەگێڕم چاوی خۆم\nهێمن\n~>\nحەسەن دەرزی",
+            "filename": "369_saidaWan_Dimo-Dimo_Hasan-Darzi_20251129-1930.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251218-0656",
+            "size": 20,
+            "document_id": 5848049039559367270,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/369_saidaWan_Dimo-Dimo_Hasan-Darzi_20251129-1930.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/369.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 366
+        "last_downloaded_internal_id": 369
     }
 }
