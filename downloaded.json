@@ -1429,10 +1429,98 @@
             "document_id": 6017286904393770178,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/392_saidaWan_20260120-2242.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/392.jpg"
+        },
+        "393": {
+            "id": "393",
+            "title": "Derdo",
+            "performer": "Eyman Adal",
+            "duration": 194,
+            "date": "20260123-1019",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "599",
+            "message": "ڕۆژئاوا💔",
+            "filename": "393_saidaWan_Derdo_Eyman-Adal_20260123-1019.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260705-1530",
+            "size": 4,
+            "document_id": 6023784395343667301,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/393_saidaWan_Derdo_Eyman-Adal_20260123-1019.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/393.jpg"
+        },
+        "394": {
+            "id": "394",
+            "title": "ژاڵە",
+            "performer": "Adnan Karim",
+            "duration": 340,
+            "date": "20260128-1830",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "600",
+            "message": "ئە ڵێن هەق وا بەسەر\nنووکی شمشێرەوە\nئەلێن ئەگەر شمسێر نەبێت\nئەوا هەق وا لەژێرەوە\nئەڵێن نەخێر هەق هەر هەقە\nشمشێر هەبێت یاخود نەبێت\n~>\nعەدنان کەریم",
+            "filename": "394_saidaWan_Adnan-Karim_20260128-1830.m4a",
+            "mime_type": "audio/mp4",
+            "edit_date": "20260128-1928",
+            "size": 6,
+            "document_id": 6042131155602381705,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/394_saidaWan_Adnan-Karim_20260128-1830.m4a.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/394.jpg"
+        },
+        "395": {
+            "id": "395",
+            "title": "وەتەن",
+            "performer": "Hasan kakaie",
+            "duration": 394,
+            "date": "20260130-0906",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "601",
+            "message": "نامەوێ ئەم ژینە تاڵە یا وەتەن یا مردنم",
+            "filename": "395_saidaWan_Hasan-kakaie_20260130-0906.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260705-1528",
+            "size": 5,
+            "document_id": 5818873395437112613,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/395_saidaWan_Hasan-kakaie_20260130-0906.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/395.jpg"
+        },
+        "396": {
+            "id": "396",
+            "title": "نەشئەی بادە",
+            "performer": "Adnan Karim",
+            "duration": 443,
+            "date": "20260130-1900",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "602",
+            "message": "ئەپرسی: بۆ چی جامی دڵ بە نەشئەی بادە مەست نابێ\nئەڵێ: لێوڕێژی بادەی عەشقی تۆم و هەر بە تۆ مەستم\nئەگەر باوەڕ بە من ناکەی وەرە سەیری دەروونم کە\nلە دنیای خۆشەویستیتا چ دەریایەکی پڕهەستم\nدیوانی فەلاح\n~>\nعه‌دنان که‌ریم",
+            "filename": "396_saidaWan_Adnan-Karim_20260130-1900.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260131-0737",
+            "size": 8,
+            "document_id": 6046201869770956085,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/396_saidaWan_Adnan-Karim_20260130-1900.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/396.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 392
+        "last_downloaded_internal_id": 396
     }
 }
