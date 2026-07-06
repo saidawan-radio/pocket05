@@ -1517,10 +1517,98 @@
             "document_id": 6046201869770956085,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/396_saidaWan_Adnan-Karim_20260130-1900.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/396.jpg"
+        },
+        "397": {
+            "id": "397",
+            "title": "Qurban",
+            "performer": "Gashtyar Kawa",
+            "duration": 197,
+            "date": "20260207-1227",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "603",
+            "message": "Qurban",
+            "filename": "397_saidaWan_Qurban_Gashtyar-Kawa_20260207-1227.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260619-1737",
+            "size": 4,
+            "document_id": 5884292980080123350,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/397_saidaWan_Qurban_Gashtyar-Kawa_20260207-1227.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/397.jpg"
+        },
+        "398": {
+            "id": "398",
+            "title": "dilo dilo",
+            "performer": "mikail aslan",
+            "duration": 271,
+            "date": "20260208-0842",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "604",
+            "message": "Wusar diyên awkê sağyer wuşena dilo dilo\nKênek ha ver derîd pilasu şüwena dilo dilo\nEre wilay ti mi vîra nêşîna dilo dilo, nêşîna dilo dilo, nêşîna dilo dilo\nFeqîrê çewlîg mi vîra nêşîna dilo dilo, nêşîna dilo dilo, nêşîna dilo dilo\n~>\nmikaîl aslan",
+            "filename": "398_saidaWan_dilo-dilo_mikail-aslan_20260208-0842.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260619-1735",
+            "size": 5,
+            "document_id": 5884292980080123349,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/398_saidaWan_dilo-dilo_mikail-aslan_20260208-0842.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/398.jpg"
+        },
+        "399": {
+            "id": "399",
+            "title": "Nalay Joday",
+            "performer": "Reza Salvati",
+            "duration": 243,
+            "date": "20260208-1857",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "605",
+            "message": "چۆن نەناڵێ ئەو دڵەی پڕ هەستی من؟!\nچۆن لە ئەژنۆ ببنەوە دوو دەستی من؟!\nچۆن نەناڵێ ئەو دڵە ئەنگاوتەیە؟!\nبەرد لە بەردی بێتەوە دەنگی هەیە\nهێمن\n~>\nڕەزا سەڵواتی",
+            "filename": "399_saidaWan_Nalay-Joday_Reza-Salvati_20260208-1857.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1819",
+            "size": 10,
+            "document_id": 5881754370940347334,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/399_saidaWan_Nalay-Joday_Reza-Salvati_20260208-1857.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/399.jpg"
+        },
+        "400": {
+            "id": "400",
+            "title": "بەرەو ئازادی",
+            "performer": "Adnan Karim",
+            "duration": 250,
+            "date": "20260208-1901",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "606",
+            "message": "تینوی ئازادین تەواوی رەنجبەری هۆشیاری کورد\nچاوەروانی دەرفەتێکن خەڵکی لادێ و شاری کورد\nدەستی دا دەستی برای و هاتە نێو کۆڕی خەبات\nکیژی نەشمیل و لەبارو شۆخ و گوێ بە گواری کورد\nهێمن\n~>\nعەدنان کەریم",
+            "filename": "400_saidaWan_Adnan-Karim_20260208-1901.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1823",
+            "size": 3,
+            "document_id": 5881754370940347336,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/400_saidaWan_Adnan-Karim_20260208-1901.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/400.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 396
+        "last_downloaded_internal_id": 400
     }
 }
