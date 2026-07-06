@@ -1077,10 +1077,98 @@
             "document_id": 5985571757778539163,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/376_saidaWan_Hassan-Darzi_20251210-2213.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/376.jpg"
+        },
+        "377": {
+            "id": "377",
+            "title": "Disan Shaw Hat",
+            "performer": "Naser Razazi",
+            "duration": 275,
+            "date": "20251211-1608",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "582",
+            "message": "دیسان شه‌و هات - ناسر ڕزازی",
+            "filename": "377_saidaWan_Disan-Shaw-Hat_Naser-Razazi_20251211-1608.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251211-1609",
+            "size": 4,
+            "document_id": 5898015735598292124,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/377_saidaWan_Disan-Shaw-Hat_Naser-Razazi_20251211-1608.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/377.jpg"
+        },
+        "378": {
+            "id": "378",
+            "title": "Gulek",
+            "performer": "Ciwan Haco",
+            "duration": 364,
+            "date": "20251211-2230",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "583",
+            "message": "Gulek min hebû yek gul\nMin neqandibû ji xwe re ji dil\nMin avdabû bi hêstirê çavan\nMin dîtibû li nav baxan\n\nGul gula min daxwaza min\nGul gula min birindara min\n~>\nCiwan Haco",
+            "filename": "378_saidaWan_Gulek_Ciwan-Haco_20251211-2230.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251211-2233",
+            "size": 10,
+            "document_id": 5882100356325841967,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/378_saidaWan_Gulek_Ciwan-Haco_20251211-2230.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/378.jpg"
+        },
+        "379": {
+            "id": "379",
+            "title": "ناله بی اثر",
+            "performer": "Banan",
+            "duration": 275,
+            "date": "20251212-1710",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "584",
+            "message": "دل بر زلف سیاهی بستم و حاصل ندیدم\nبه جز روز سیاهی\nکز ناله بی حاصل من\nدر سینه چو گل سوزد دل من\nرهی معیری\n~>\nبنان",
+            "filename": "379_saidaWan_Banan_20251212-1710.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251212-1713",
+            "size": 12,
+            "document_id": 5900235950222484724,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/379_saidaWan_Banan_20251212-1710.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/379.jpg"
+        },
+        "380": {
+            "id": "380",
+            "title": "پرزەی نەرمە واران",
+            "performer": "Donya kamali",
+            "duration": 260,
+            "date": "20251215-2131",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "585",
+            "message": "تۆ پرزەی نەرمە وارانی\nگوڵە زەردەی وەهارانی\nلە حاڵم کەی خەوەر زانی\nهەزاران ژان لە دڵ دیرم\n~>",
+            "filename": "380_saidaWan_Donya-kamali_20251215-2131.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20251215-2214",
+            "size": 7,
+            "document_id": 5908992237487791100,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/380_saidaWan_Donya-kamali_20251215-2131.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/380.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 376
+        "last_downloaded_internal_id": 380
     }
 }
