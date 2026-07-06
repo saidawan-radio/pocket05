@@ -263,10 +263,76 @@
             "document_id": 5902377094498752697,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/339_saidaWan_Hassan-Zirak_20250905-2230.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/339.jpg"
+        },
+        "340": {
+            "id": "340",
+            "title": "عیشق و ئازادی",
+            "performer": "Nasr razazi",
+            "duration": 413,
+            "date": "20250909-1250",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "543",
+            "message": "",
+            "filename": "340_saidaWan_Nasr-razazi_20250909-1250.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250909-1250",
+            "size": 4,
+            "document_id": 5909031579388221488,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/340_saidaWan_Nasr-razazi_20250909-1250.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/340.jpg"
+        },
+        "341": {
+            "id": "341",
+            "title": "عیشق و ئازادی",
+            "performer": "Hesen Derzî",
+            "duration": 331,
+            "date": "20250909-1250",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "544",
+            "message": "",
+            "filename": "341_saidaWan_20250909-1250.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250909-1250",
+            "size": 4,
+            "document_id": 5909031579388221489,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/341_saidaWan_20250909-1250.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/341.jpg"
+        },
+        "342": {
+            "id": "342",
+            "title": "عیشق و ئازادی",
+            "performer": "Marzia Farighi",
+            "duration": 401,
+            "date": "20250909-1250",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "545",
+            "message": "ئەگەرچی شەو درەنگە ساقی بۆم تێکە کەمێکی تر\nکە وا ئەمشەو سەری هەڵدا لە ناخمدا خەمێکی تر\nلە بادە ئەم ژەمە تێر کە منی تینووی جگەرسووتاو\nبە چی دیارە کە دەیبینم شەوێکی تر، ژەمێکی تر!\nهێمن\n~>",
+            "filename": "342_saidaWan_Marzia-Farighi_20250909-1250.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250909-1250",
+            "size": 7,
+            "document_id": 5909031579388221490,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/342_saidaWan_Marzia-Farighi_20250909-1250.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/342.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 339
+        "last_downloaded_internal_id": 342
     }
 }
