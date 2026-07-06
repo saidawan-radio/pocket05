@@ -329,10 +329,76 @@
             "document_id": 5909031579388221490,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/342_saidaWan_Marzia-Farighi_20250909-1250.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/342.jpg"
+        },
+        "343": {
+            "id": "343",
+            "title": "چهار مضراب",
+            "performer": "Mohammadreza Shajarian",
+            "duration": 412,
+            "date": "20250910-1347",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "546",
+            "message": "دمی با همدمی خُرَّم ز جانم بر نمی‌آید\nدمم با جان برآید چون که یک همدم نمی‌بینم\nمرا رازیست اندر دل به خون دیده پرورده\nولیکن با که گویم راز؟ چون مَحرَم نمی‌بینم\nسعدی\n~>\nمحمدرضا شجریان",
+            "filename": "343_saidaWan_Mohammadreza-Shajarian_20250910-1347.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250910-1738",
+            "size": 17,
+            "document_id": 5913565604563917541,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/343_saidaWan_Mohammadreza-Shajarian_20250910-1347.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/343.jpg"
+        },
+        "344": {
+            "id": "344",
+            "title": "گیان ئازیزم",
+            "performer": "Naser Razazi",
+            "duration": 465,
+            "date": "20250911-2130",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "547",
+            "message": "گیان گیان و گیان گیان و گیان ئازیزم\nخۆ من بەبێ تۆ لە خۆمیش زیزم\nوێڵم ئەگەڕێم لە دووت ڕۆژ و شەو\nحەرامم کردوە لە دووچاوم خەو\n~>\nناسر رەزازی",
+            "filename": "344_saidaWan_Naser-Razazi_20250911-2130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250912-0438",
+            "size": 8,
+            "document_id": 5915996564643387976,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/344_saidaWan_Naser-Razazi_20250911-2130.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/344.jpg"
+        },
+        "345": {
+            "id": "345",
+            "title": "@radio_serberz",
+            "performer": "ڕەزازی/هاتەوە تەیرەکەی گەرمێنێ",
+            "duration": 263,
+            "date": "20250915-2023",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "548",
+            "message": "",
+            "filename": "345_saidaWan_radio-serberz_20250915-2023.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250916-1223",
+            "size": 5,
+            "document_id": 5927017790027340061,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/345_saidaWan_radio-serberz_20250915-2023.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/345.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 342
+        "last_downloaded_internal_id": 345
     }
 }
